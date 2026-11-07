@@ -1,0 +1,10 @@
+{
+  "name": "SnapSolve AI - Homework Photo Solver",
+  "description": "Snap a photo of any homework problem for instant step-by-step solutions, key formulas, conceptual explanations, interactive practice, and exportable Python solver code.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
